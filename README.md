@@ -24,5 +24,7 @@ This setup ensures proper filtering and VPN usage to allow Roblox, Discord, and 
 
 - Download CloudFlare WARP from the folder and launch it using the provided .bat file.
 - <img width="305" height="103" alt="{7D143638-5431-4029-8499-DC891A4280CF}" src="https://github.com/user-attachments/assets/1dffd288-adaf-406a-9da1-ba7cecbcb076" />
+
 - Here you can start orange cloud(CloudFlare WASP).
+
 - Start roblox and play))  
