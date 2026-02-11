@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02368dad-a6f9-4ca4-997d-92870942a59f" />1. Starting Zapret
 
 - Open the Zapret folder.
 - Run service.bat.
