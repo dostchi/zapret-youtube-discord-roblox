@@ -1,4 +1,4 @@
-1. Starting Zapret
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02368dad-a6f9-4ca4-997d-92870942a59f" />1. Starting Zapret
 
 - Open the Zapret folder.
 - Run service.bat.
@@ -21,4 +21,4 @@ This setup ensures proper filtering and VPN usage to allow Roblox, Discord, and 
 
 2(2). To start Roblox
 
-- Download CloudFlare WARP and launch it using the provided .bat file.
+- Download CloudFlare WARP and launch it using the provided .bat file. Then start it, if you don't know how to start it see youtube guides
